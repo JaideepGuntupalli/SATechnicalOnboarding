@@ -29,13 +29,13 @@ h1 {
 }
 
 h2 {
-    color: navy;
+    color: rgb(44, 44, 120);
     font-size: 1.2em;
     margin: 0em;
 }
 
 h3 {
-    color: navy;
+    color: rgb(77, 77, 113);
     font-size: 1em;
     margin: 0em;
 }
